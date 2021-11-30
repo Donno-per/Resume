@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h3 {
+  color: #150050;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.title {
+  background-color: #99A799;
+}
+
+.title-h {
+  /* font-family: Montserrat; */
+  font-family: 'Comforter', cursive;
+  font-size: 5rem;
+  padding-top: 8rem;
+}
+
+.mah {
+  color: #000957;
+}
+
+
+.profile-pic {
+  width: 17rem;
+  height: 19rem;
+}
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  font-size: 1.5rem;
+  color: #3F3351;
+}
+
+.design-img {
+  width: 17%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-h {
+  color: #082032;
+}
+.code-img {
+  width: 18%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 2rem;
+}
+.skill-p {
+  font-size: 1.25rem;
+  color: #3F3351;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #99A799;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
